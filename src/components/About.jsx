@@ -19,10 +19,10 @@ const About = () => {
 
         <br/>
         <p className='font-medium'>
-        That means you can see buy orders and sell orders placed by institutions and big traders
-        that helps you to make a good decision in you're trading career.
+        That means you can see buy orders and sell orders placed by institutions and big traders,small traders
+        that help you to make a good decision in you're trading career.
         Keep that in your mind it's not a holygrail to make millions of dollars.
-        Use your brain find an edge and print big bucks.
+        Use your brain to find an edge and print big bucks.
      </p>
     </div>
     </div>
