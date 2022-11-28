@@ -32,8 +32,9 @@ const Products = () => {
            </div>
            <div className="text-green-400 font-bold" ><h3>our price : 10000 Rs or 122 usd /-</h3></div>
         
-          <button  className=" flex justify-center text-2xl hover:scale-105 duration-200"  href='' >Click here for more info</button>
-         
+        <a href="https://ninjamz.vercel.app/">
+          <button  className=" flex justify-center text-2xl hover:scale-105 duration-200"  >Click here for more info</button>
+         </a>
       </div>
     </div>
   );
