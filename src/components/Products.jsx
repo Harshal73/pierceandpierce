@@ -28,7 +28,7 @@ const Products = () => {
         <p>Ninjatrader helps you to trade futures,stocks,forex with real-time market datafeed.
            </p>
            <div className="text-blue-600" >
-           <a href="https://bookmap.com/packages-comparison/ " >Check the official pricing</a>
+           <a href="https://ninjatrader.com/BuyPlatform" >Check the official pricing</a>
            </div>
            <div className="text-green-400 font-bold" ><h3>our price : 10000 Rs or 122 usd /-</h3></div>
         
