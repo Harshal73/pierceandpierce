@@ -30,7 +30,7 @@ const Products = () => {
            <div className="text-blue-600" >
            <a href="https://ninjatrader.com/BuyPlatform" >Check the official pricing</a>
            </div>
-           <div className="text-green-400 font-bold" ><h3>our price : 10000 Rs or 122 usd /-</h3></div>
+           <div className="text-green-400 font-bold" ><h3>our price : 15000 Rs or 180 usd /-</h3></div>
         
         <a href="https://ninjamz.vercel.app/">
           <button  className=" flex justify-center text-2xl hover:scale-105 duration-200"  >Click here for more info</button>
